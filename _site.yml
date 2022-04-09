@@ -9,7 +9,7 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Tobi"
+    - text: "CV"
       href: tobi.html
 site: distill::distill_website
 theme: postcards.css

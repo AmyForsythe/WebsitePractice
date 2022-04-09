@@ -1,20 +1,16 @@
 ---
-title: "Tobi Burns"
-image: "tobi.jpg"
+title: "Amy Forsythe"
+image: "AmyForsythe.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/amybforsythe"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/AmyForsythe"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:forsythe@zoology.ubc.ca"
 output:
   postcards::jolla
 site: distill::distill_website
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+I am a theoretical biologist, interested in modeling ecological and evolutionary processes. My research lies at the intersection of ecology and evolution, using population dynamics and individual vital rates to predict changes in life history traits over time.
